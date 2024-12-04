@@ -6,7 +6,7 @@
 
 ## Развернутый проект
 
-- [Foodgram](https://foodgra.redirectme.net/)
+- [Foodgram](https://foodg.myftp.org/)
 
 ## Установка
 
