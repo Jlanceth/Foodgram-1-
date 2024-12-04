@@ -1,6 +1,6 @@
 # Foodgram
 
-![GitHub Workflow Status](https://github.com/Reez0n/foodgram/actions/workflows/main.yml/badge.svg)
+![GitHub Workflow Status](https://github.com/Jlanceth/foodgram/actions/workflows/main.yml/badge.svg)
 
 **Фудграм** — это сайт, который собирает рецепты пользователей и позволяет исследовать новые кулинарные возможности. Вы можете следить за своими любимыми поварами, выкладывать свои рецепты и сохранять чужие!
 
