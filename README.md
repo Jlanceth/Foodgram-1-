@@ -6,7 +6,7 @@
 
 ## Развернутый проект
 
-- [Kittygram Final](https://foodgra.redirectme.net/)
+- [Foodgram](https://foodgra.redirectme.net/)
 
 ## Установка
 
