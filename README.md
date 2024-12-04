@@ -10,7 +10,7 @@
 
 ## Установка
 
-1. Клонируйте себе репозиторий: git clone git@github.com:Reez0n/foodgram.git
+1. Клонируйте себе репозиторий: git clone git@github.com:Jlanceth/foodgram.git
 2. Заполните файл .env
 3. Перейдите в папку infra/
 4. Запустите сборку и docker-compose
